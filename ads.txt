@@ -10,3 +10,4 @@
 0.0.0.0 i.holder.com.ua
 0.0.0.0 i.ytimg.com
 0.0.0.0 st5.rcvlink.com
+0.0.0.0 lh3.googleusercontent.com
