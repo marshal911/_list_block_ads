@@ -1,0 +1,11 @@
+0.0.0.0 news.partners.ru.com
+0.0.0.0 zn2.gnezdo.ru
+0.0.0.0 z.cdn.trafficbass.com
+0.0.0.0 top-news2.ru
+0.0.0.0 www.ad.admitad.com
+0.0.0.0 st11.rcvlink.com
+0.0.0.0 meta.vcdn.biz
+0.0.0.0 ua-1x-bet.com
+0.0.0.0 betwinner1.com
+0.0.0.0 i.holder.com.ua
+0.0.0.0 i.ytimg.com
