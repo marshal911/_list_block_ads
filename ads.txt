@@ -9,3 +9,4 @@
 0.0.0.0 betwinner1.com
 0.0.0.0 i.holder.com.ua
 0.0.0.0 i.ytimg.com
+0.0.0.0 st5.rcvlink.com
