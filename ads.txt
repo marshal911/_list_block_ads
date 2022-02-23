@@ -31,4 +31,3 @@
 0.0.0.0 googlesyndication.com
 0.0.0.0 googleoptimize.com
 0.0.0.0 gstatic.com
-0.0.0.0 facebook.net
