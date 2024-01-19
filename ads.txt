@@ -32,4 +32,4 @@
 0.0.0.0 googleoptimize.com
 0.0.0.0 gstatic.com
 0.0.0.0 ads.viber.com
-0.0.0.0 servetraff
+0.0.0.0 servetraff.com
