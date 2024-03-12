@@ -33,3 +33,5 @@
 0.0.0.0 gstatic.com
 0.0.0.0 ads.viber.com
 0.0.0.0 servetraff.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 content.hybrid.ai
