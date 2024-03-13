@@ -35,3 +35,6 @@
 0.0.0.0 servetraff.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 content.hybrid.ai
+0.0.0.0 servetraff.com
+0.0.0.0 cdn.servetraff.com
+0.0.0.0 corntire.com
