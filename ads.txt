@@ -44,3 +44,4 @@
 0.0.0.0 measurement-api.criteo.com
 0.0.0.0 s-img.mgid.com
 0.0.0.0 clck.mgid.com
+0.0.0.0 2mdn.net
