@@ -47,3 +47,6 @@
 0.0.0.0 2mdn.net
 0.0.0.0 www.favbet.ua
 0.0.0.0 favbet.ua
+0.0.0.0 bb.givemelink.cc
+0.0.0.0 lexicon.33across.com
+0.0.0.0 onetag-sys.com
