@@ -42,3 +42,5 @@
 0.0.0.0 imageproxy.eu.criteo.net
 0.0.0.0 cat.fr3.eu.criteo.com
 0.0.0.0 measurement-api.criteo.com
+0.0.0.0 s-img.mgid.com
+0.0.0.0 clck.mgid.com
