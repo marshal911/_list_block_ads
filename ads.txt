@@ -37,3 +37,5 @@
 0.0.0.0 servetraff.com
 0.0.0.0 cdn.servetraff.com
 0.0.0.0 corntire.com
+0.0.0.0 imageproxy.eu
+0.0.0.0 adclick.g.doubleclick.net
