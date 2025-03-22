@@ -55,3 +55,4 @@
 0.0.0.0 a4p.adpartner.pro
 0.0.0.0 events-pl.greencuttlefish.com
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 clck.idealmedia.io
