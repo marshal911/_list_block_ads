@@ -1321,7 +1321,6 @@ log.pinterest.com
 logbak.hicloud.com
 logging.slm.ua
 login.dotomi.com
-login.microsoftonline.com
 login.mso.msidentity.com
 logo.clearbit.com
 logs.browser-intake-datadoghq.com
