@@ -246,11 +246,7 @@ diagmon-serviceapi.samsungdm.com
 dit.whatsapp.net
 dmtracking2.alibaba.com
 dns-tunnel-check.googlezip.net
-dns.google
-dns.google.com
 dns.msftncsi.com
-dns.resolver.arpa
-doh.dns.apple.com
 download.db-ip.com
 dual-s-ring.msedge.net
 e.clarity.ms
@@ -366,9 +362,6 @@ locationhistoryplacedetails-pa.googleapis.com
 log-report.rtcplus.com
 log.bntrace.com
 log.cnt.re
-log16-normal-useast1a.tiktokv.com
-log22-normal-useast1a.tiktokv.com
-log32-normal-useast1a.tiktokv.com
 logger.21wiz.com
 loglady.kiwi.com
 logs.ads.vungle.com
@@ -376,8 +369,6 @@ m365cdn.nel.measure.office.net
 m3ond3-cdn-settings.appsflyersdk.com
 m3ond3-launches.appsflyersdk.com
 mads.amazon-adsystem.com
-mask-h2.icloud.com
-mask.icloud.com
 mc.webvisor.org
 mc.yandex.ru
 mcc-intl.inf.miui.com
@@ -394,10 +385,6 @@ mobile.pipe.aria.microsoft.com
 moduleanalysis.aliexpress.com
 mon-boot.tiktokv.com
 mon.tiktokv.com
-mon15-normal-useast1a.tiktokv.com
-mon16-normal-useast1a.tiktokv.com
-mon22-normal-useast1a.tiktokv.com
-mon31-normal-useast1a.tiktokv.com
 monitor-frontend-collector.a.bybit-aws.com
 mozilla.cloudflare-dns.com
 mparticle.weather.com
@@ -438,7 +425,6 @@ playmoviesdfe-pa.googleapis.com
 pns.anagog.com
 poll.gras.samsungdm.com
 privacy-sandbox.appsflyersdk.com
-probe.icloud.com
 prod.otel.kaizen.nvidia.com
 pubads.g.doubleclick.net
 pup-resource.ffe390afd658c19dcbf707e0597b846d.de
@@ -463,8 +449,6 @@ router.miwifi.com
 router.utorrent.com
 rt.applovin.com
 rt.applvn.com
-rtlog16-normal-useast1a.tiktokv.com
-rtlog22-normal-useast1a.tiktokv.com
 s-bid.rmp.rakuten.com
 s-cdn.rmp.rakuten.com
 s-cs.rmp.rakuten.com
@@ -550,9 +534,6 @@ test-gateway.instagram.com
 th.bing.com
 thaka.bing.com
 time-ae.akamaized.net
-tnc-boot.tiktokv.com
-tnc0-normal-alisg.tiktokv.com
-tnc0-normal-useast1a.tiktokv.com
 tobapplog.tobsnssdk.com
 toblog.tobsnssdk.com
 tr.acobt.tech
@@ -1859,7 +1840,6 @@ vesta-vagu.adsquiz.io
 vg05.met.vgwort.de
 vi-sber1-22.jivosite.com
 video.adtelligent.com
-video2.rozetka.com.ua
 view.adjust.com
 vmss-clarity-ingest-eus2-c.eastus2.cloudapp.azure.com
 vmss-clarity-ingest-eus2-d.eastus2.cloudapp.azure.com
