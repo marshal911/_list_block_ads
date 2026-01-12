@@ -584,7 +584,6 @@ www.googleadservices.com
 www.googleoptimize.com
 www.googletagmanager.com
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
-www.qbittorrent.org
 x.ss2.us
 xgapromomanager-pa.googleapis.com
 xp.apple.com
@@ -1510,7 +1509,6 @@ px.mountain.com
 px4.ads.linkedin.com
 q-aus1.contentsquare.net
 q.stripe.com
-qbittorrent.github.io
 qchmhd61sj.kameleoon.eu
 qoe-1.yottaa.net
 qsearch-a.akamaihd.net
