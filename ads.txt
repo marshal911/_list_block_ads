@@ -277,7 +277,6 @@ fourier.alibaba.com
 fourier.aliexpress.com
 fourier.taobao.com
 fp.msedge.net
-fpt.dfp.microsoft.com
 fr.resolver.msg.global.xiaomi.net
 fundingchoicesmessages.google.com
 fw.adsafeprotected.com
@@ -371,7 +370,6 @@ micro.rubiconproject.com
 mobile-201.api.privacy-center.org
 mobile-api.reteno.com
 mobile-data.onetrust.io
-mobile.pipe.aria.microsoft.com
 moduleanalysis.aliexpress.com
 mon-boot.tiktokv.com
 mon.tiktokv.com
@@ -400,7 +398,6 @@ odm.app-ads-services.com
 ogads-pa.googleapis.com
 oritooep.win
 otheve.beacon.qq.com
-ov-df.microsoft.com
 p.typekit.net
 pagead2.googlesyndication.com
 paintejuke.com
@@ -468,17 +465,14 @@ searchlabspartnerservice-pa.googleapis.com
 sec.umeng.com
 secure.static.visualisation.performgroup.com
 securepubads.g.doubleclick.net
-self.events.data.microsoft.com
 sensors.saasexch.com
 sentry-eu.ecoflow.com
 sentry.27zxc.com
 sentry.io
 sessions.bugsnag.com
-settings-win.data.microsoft.com
 sf16-muse-va.ibytedtos.com
 sf16-short-va.bytedapm.com
 sf16-static.i18n-pglstatp.com
-signals.urs.microsoft.com
 site-script.esputnik.com
 siteperformancetest.net
 skadnetworks.fyber.com
@@ -512,7 +506,6 @@ t.trafmag.com
 t3.zcvh.net
 tag.cartrawler.com
 tags.creativecdn.com
-teams.events.data.microsoft.com
 teams.nel.measure.office.net
 telemetry-console.api.playstation.com
 telemetry-mobile.api.playstation.com
@@ -547,8 +540,6 @@ us.ynuf.aliapp.org
 usage-reporter.duplicati.com
 userlocation.googleapis.com
 v.clarity.ms
-v10.events.data.microsoft.com
-v20.events.data.microsoft.com
 v6wddf.cdn-settings.appsflyersdk.com
 v6wddf.launches.appsflyersdk.com
 vast.ufouxbwn.com
@@ -558,7 +549,6 @@ voilatile-pa.googleapis.com
 vpp-license-proxy.aliyuncs.com
 w3-reporting-nel.reddit.com
 w3-reporting.reddit.com
-watson.events.data.microsoft.com
 weather-analytics-events.apple.com
 web-fallback.facebook.com
 web.facebook.com
