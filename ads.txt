@@ -211,9 +211,6 @@ config-api.internet.apps.samsung.com
 config.ads.vungle.com
 config.fp.measure.office.com
 connect.facebook.net
-connectivity-test.cloud.microsoft
-connectivity-test.static.microsoft
-connectivity-test.usercontent.microsoft
 contendvc.cnouyi.pizza
 copilot-telemetry.githubusercontent.com
 counter.yadro.ru
