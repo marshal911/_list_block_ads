@@ -166,9 +166,7 @@ gvt2.com
 gvt3.com
 bitrix.info
 browser-intake-datadoghq.com
-browser.events.data.microsoft.com
 browser.events.data.msn.com
-browser.pipe.aria.microsoft.com
 c.amazon-adsystem.com
 c.clarity.ms
 c6thn4.cdn-settings.appsflyersdk.com
@@ -819,7 +817,6 @@ c.riskified.com
 c.rzk-m.com
 c.us.heap-api.com
 c0cc5e06ec27317c1e31658b0584dd58.azr.footprintdns.com
-c1.microsoft.com
 c6.paypal.com
 caixa.demdex.net
 call.chatra.io
@@ -1075,7 +1072,6 @@ et-eus.w.inmobi.com
 et-l.w.inmobi.com
 etahub.com
 eu-assets.i.posthog.com
-eu-ic3.events.data.microsoft.com
 eu-rtbstack-cm.admixer.net
 eu-us-cdn.consentmanager.net
 eu.api.fpjs.io
@@ -1083,7 +1079,6 @@ eu.cookie-script.com
 eu.i.posthog.com
 eu2-api.eng.bloomreach.com
 euc-excel-telemetry.officeapps.live.com
-eudb.ris.api.iris.microsoft.com
 europe.event-tracking.samsung.com
 eus.rubiconproject.com
 eve.playstation.com
@@ -1113,7 +1108,6 @@ fast.wistia.net
 fastlane.rubiconproject.com
 fb.affinity.net
 fcmtoken.googleapis.com
-fe2cr.update.microsoft.com
 featureassets.org
 federatedcompute-pa.googleapis.com
 file-eu.clickdimensions.com
@@ -1144,12 +1138,10 @@ fresnel-events.vimeocdn.com
 frog.wix.com
 front.optimonk.com
 frontend.1worldonline.com
-functional.events.data.microsoft.com
 fwtracks.freshmarketer.com
 g.ezoic.net
 g.msn.com
 g2.gumgum.com
-gateway.bingviz.microsoftapp.net
 gde-default.hit.gemius.pl
 gdeua.hit.gemius.pl
 gem.gbc.criteo.com
@@ -1201,7 +1193,6 @@ htlb.casalemedia.com
 http-inputs-notion.splunkcloud.com
 hubspot-forms-static-embed.s3.amazonaws.com
 i.sng.link
-ic3.events.data.microsoft.com
 icanhazip.com
 id.ansible.com
 id5-sync.com
@@ -1364,7 +1355,6 @@ mumami.widget.helpcrunch.com
 munchkin.marketo.net
 mv-group.adsquiz.io
 mweb-hb.presage.io
-my.microsoftpersonalcontent.com
 mybbc-analytics.files.bbci.co.uk
 myroledance.com
 n.clarity.ms
@@ -1380,7 +1370,6 @@ ninja.data.olxcdn.com
 nitroscripts.com
 nmetrics.samsung.com
 no-cache.hubspot.com
-noam.events.data.microsoft.com
 node-sber1-az1-20.jivosite.com
 normandy.cdn.mozilla.net
 nova.collect.igodigital.com
@@ -1425,7 +1414,6 @@ perf.hsforms.com
 performance.squarespace.com
 pics.esputnik.com
 pig.redact.dev
-ping-signals.urs.microsoft.com
 pipedream.wistia.com
 pix-cdn77.phncdn.com
 pix-cdn77.trafficjunky.net
@@ -1479,7 +1467,6 @@ privacyportal-eu.onetrust.com
 privacyportal.onetrust.com
 prod-js.aws.y-track.com
 prod.cm.publishers.advertising.a2z.com
-prod.rewardsplatform.microsoft.com
 prod.roaming1.live.com.akadns.net
 prod.tahoe-analytics.publishers.advertising.a2z.com
 prodregistryv2.org
@@ -1605,7 +1592,6 @@ sephora.commander1.com
 servedby.revive-adserver.net
 server-side-tagging-he3u4nhsuq-uc.a.run.app
 server-side-tagging-vwo52nibmq-uc.a.run.app
-server.events.data.microsoft.com
 services.adsquiz.io
 sessions-bugsnag.docker.com
 settings.luckyorange.com
@@ -1719,7 +1705,6 @@ tags.imagin.com
 tags.mutua.es
 tags.pw.adn.cloud
 tags.tiqcdn.com
-target.microsoft.com
 tdum.alibaba.com
 telemetry-web.api.playstation.com
 telemetry.betterstack.com
@@ -1833,7 +1818,6 @@ web-perf.booking.com
 web-sdk.smartlook.com
 web.docker.com
 web.snrbox.com
-web.vortex.data.microsoft.com
 web.webformscr.com
 web.webpushs.com
 weblion777.github.io
