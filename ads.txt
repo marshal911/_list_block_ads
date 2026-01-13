@@ -255,9 +255,6 @@ error-tracking.reddit.com
 esputnik.com
 et.megogo.net
 eu-aa.online-metrix.net
-eu-mobile.events.data.microsoft.com
-eu-office.events.data.microsoft.com
-eu-teams.events.data.microsoft.com
 eu.pftk.temu.com
 eu.thtk.temu.com
 events.gfe.nvidia.com
