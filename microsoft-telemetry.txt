@@ -17,11 +17,9 @@ watson.events.data.microsoft.com
 c1.microsoft.com
 eu-ic3.events.data.microsoft.com
 eudb.ris.api.iris.microsoft.com
-fe2cr.update.microsoft.com
 functional.events.data.microsoft.com
 gateway.bingviz.microsoftapp.net
 ic3.events.data.microsoft.com
-my.microsoftpersonalcontent.com
 noam.events.data.microsoft.com
 ping-signals.urs.microsoft.com
 prod.rewardsplatform.microsoft.com
