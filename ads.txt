@@ -707,7 +707,6 @@ api.bugsnag.com
 api.config-security.com
 api.country.is
 api.diagnostics.office.com
-api.github.com
 api.gravitec.media
 api.honeycomb.io
 api.hypelab.com
