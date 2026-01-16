@@ -15,7 +15,6 @@ doubleclick.net
 rcvlink.com
 adpartner.pro
 googletagservices.com
-storage.googleapis.com
 bigmir.net
 adtcdn.com
 utarget.ru
@@ -29,7 +28,6 @@ znctrack.net
 zhctrack.net
 googlesyndication.com
 googleoptimize.com
-gstatic.com
 ads.viber.com
 servetraff.com
 tpc.googlesyndication.com
@@ -44,7 +42,6 @@ measurement-api.criteo.com
 s-img.mgid.com
 clck.mgid.com
 2mdn.net
-www.favbet.ua
 favbet.ua
 bb.givemelink.cc
 lexicon.33across.com
@@ -193,8 +190,6 @@ census-app-x.scorecardresearch.com
 census-app.scorecardresearch.com
 cf.iadsdk.apple.com
 chrome.cloudflare-dns.com
-client.wns.windows.com
-clientservices.googleapis.com
 clienttracing-pa.googleapis.com
 cloudflare-dns.com
 cm.g.doubleclick.net
@@ -279,8 +274,6 @@ fr.resolver.msg.global.xiaomi.net
 fundingchoicesmessages.google.com
 fw.adsafeprotected.com
 g.live.com
-gateway.icloud.com
-gateway.instagram.com
 gaua.hit.gemius.pl
 geller-pa.googleapis.com
 get.mycounter.ua
@@ -299,7 +292,6 @@ graph.m-freeway.com
 graph.whatsapp.net
 growth-pa.googleapis.com
 gtglobal.intl.miui.com
-gx-target-experiments-frontend-api.gx.nvidia.com
 h-adashx4ae.ut.taobao.com
 h.clarity.ms
 h.online-metrix.net
