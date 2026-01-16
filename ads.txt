@@ -1442,7 +1442,6 @@ plausible.cruip.com
 plausible.cyberciti.biz
 plausible.io
 plausible.nazarii-semeniuk.com
-play.google.com
 play.vidyard.com
 player.adtcdn.com
 players.brightcove.net
