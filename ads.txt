@@ -225,7 +225,6 @@ data-events.cdn.viber.com
 dc.dqa.samsung.com
 dc.services.visualstudio.com
 default.exp-tas.com
-dht.libtorrent.org
 dht.transmissionbt.com
 diagmon-serviceapi.samsungdm.com
 dit.whatsapp.net
@@ -420,9 +419,7 @@ retcode-us-west-1.arms.aliyuncs.com
 roovza.cdn-settings.appsflyersdk.com
 roovza.launches.appsflyersdk.com
 roovza.skadsdk.appsflyersdk.com
-router.bittorrent.com
 router.miwifi.com
-router.utorrent.com
 rt.applovin.com
 rt.applvn.com
 s-bid.rmp.rakuten.com
@@ -513,7 +510,6 @@ tunnel.googlezip.net
 ulp1p-pa.googleapis.com
 umlazada.alibaba.com
 unified.adsafeprotected.com
-update.utorrent.com
 upload.fp.measure.office.com
 upload2.fp.measure.office.com
 us-east-wum.alibaba.com
