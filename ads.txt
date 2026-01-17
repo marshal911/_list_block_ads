@@ -25,7 +25,6 @@ yastatic.net
 hotjar.com
 onthe.io
 znctrack.net
-zhctrack.net
 googlesyndication.com
 googleoptimize.com
 ads.viber.com
@@ -487,7 +486,6 @@ stats.myangular.life
 status.geotrust.com
 sts.applovin.com
 stun.voiparound.com
-t.co
 t.trafmag.com
 t3.zcvh.net
 tag.cartrawler.com
@@ -500,8 +498,6 @@ telemetry.graylog.cloud
 telemetry.individual.githubcopilot.com
 telemetry.tradingview.com
 test-gateway.instagram.com
-th.bing.com
-thaka.bing.com
 time-ae.akamaized.net
 tobapplog.tobsnssdk.com
 toblog.tobsnssdk.com
@@ -680,7 +676,6 @@ analytics.yahoo.com
 analyticsengine.s3.amazonaws.com
 anchor.digitalocean.com
 android-context-data.googleapis.com
-android-safebrowsing.google.com
 ape-androids.isappcloud.com
 api-bloomreach.comfy.ua
 api-js.mixpanel.com
@@ -749,7 +744,6 @@ assets.context.ly
 assets.customer.io
 assets.emarsys.net
 assets.mailerlite.com
-assets.msn.com
 assets.ubembed.com
 aswpsdkeu.com
 async-px.dynamicyield.com
@@ -949,7 +943,6 @@ collector.reelevant.com
 conf.config-security.com
 confiant-integrations.global.ssl.fastly.net
 config.aps.amazon-adsystem.com
-config.edge.skype.com
 config.playwire.com
 config.unityads.unity3d.com
 consent-pref.trustarc.com
@@ -1022,8 +1015,6 @@ distillery.wistia.com
 dklqrmly.r.eu-central-1.awstrack.me
 dm-eu.hybrid.ai
 dns.adguard-dns.com
-dns.quad9.net
-dns0.eu
 docker1.mktoweb.com
 dokua.widget.helpcrunch.com
 domopolis.widget.helpcrunch.com
@@ -1094,7 +1085,6 @@ fast.a.klaviyo.com
 fast.wistia.net
 fastlane.rubiconproject.com
 fb.affinity.net
-fcmtoken.googleapis.com
 featureassets.org
 federatedcompute-pa.googleapis.com
 file-eu.clickdimensions.com
@@ -1104,8 +1094,6 @@ find-x.userpilot.io
 find-y.userpilot.io
 find-z.userpilot.io
 find.userpilot.io
-firebaseappcheck.googleapis.com
-firebaseinappmessaging.googleapis.com
 fireworkapi1.com
 fl-cdn.trafficjunky.net
 flow.1passwordservices.com
@@ -1255,7 +1243,6 @@ kcfdom.com
 keywords.mediavine.com
 kpmediagaua.hit.gemius.pl
 krk2.kargo.com
-kyiv.digital
 l.contentsquare.net
 l.getsitecontrol.com
 latt.blueconic.net
@@ -1321,7 +1308,6 @@ metrics.mzstatic.com
 metrics2.data.hicloud.com
 metrika.yandex.ru
 ml314.com
-mobile-sp.tradingview.com
 mon16-normal-useast5.tiktokv.us
 mon16-normal-useastred.tiktokv.eu
 monitor-frontend-collector.ffbbbdc6d3c353211fe2ba39c9f744cd.com
@@ -1367,7 +1353,6 @@ octo25.me
 offerwall.yandex.net
 officehub.nel.measure.office.net
 old.kurs.com.ua
-one.one.one.one
 onelinksmartscript.appsflyer.com
 online-metrix.net
 onsite.optimonk.com
@@ -1375,6 +1360,7 @@ open.oneplus.net
 oracle.112.2o7.net
 oracle.sc.omtrdc.net
 orlovskyi.com
+study.orlovskyi.com
 orner.widget.helpcrunch.com
 otelwebtelemetry.com
 otlp-http-production.shopifysvc.com
@@ -1453,7 +1439,6 @@ privacyportal-eu.onetrust.com
 privacyportal.onetrust.com
 prod-js.aws.y-track.com
 prod.cm.publishers.advertising.a2z.com
-prod.roaming1.live.com.akadns.net
 prod.tahoe-analytics.publishers.advertising.a2z.com
 prodregistryv2.org
 pswa.bidata.store
@@ -1520,7 +1505,6 @@ s.adroll.com
 s.axon.ai
 s.deepl.com
 s.getstat.net
-s.mssg.me
 s.salecycle.com
 s.seedtag.com
 s0.2mdn.net
@@ -1552,7 +1536,6 @@ sdk.fra-02.braze.eu
 sdk.iad-05.braze.com
 sdk.mrf.io
 sdk.out.usbla.net
-sdk.pushmessage.samsung.com
 sdk.split.io
 sdk.waze.com
 sdkconfig.ad.xiaomi.com
@@ -1582,10 +1565,8 @@ services.adsquiz.io
 sessions-bugsnag.docker.com
 settings.luckyorange.com
 settings.luckyorange.net
-setup.icloud.com
 sf16-scmcdn-sg.ibytedtos.com
 sghb.bidmatic.io
-sgtm.eset.com
 sgtm.ferragamo.com
 sgtm.infobus.eu
 shb.richaudience.com
@@ -1791,8 +1772,6 @@ view.adjust.com
 vmss-clarity-ingest-eus2-c.eastus2.cloudapp.azure.com
 vmss-clarity-ingest-eus2-d.eastus2.cloudapp.azure.com
 vnmfvnkd.win
-vpn.mozilla.org
-vscode-sync.trafficmanager.net
 w.usabilla.com
 w1.luckyorange.com
 wa.slideshare.net
