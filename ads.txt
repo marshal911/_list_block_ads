@@ -177,8 +177,6 @@ cdp.geotrust.com
 census-app-x.scorecardresearch.com
 census-app.scorecardresearch.com
 cf.iadsdk.apple.com
-chrome.cloudflare-dns.com
-cloudflare-dns.com
 cm.g.doubleclick.net
 cmp.setupcmp.com
 cnam4c-cdn-settings.appsflyersdk.com
@@ -223,7 +221,6 @@ edge.browser-fp.production.linktr.ee
 engagements.appsflyer.com
 entitlement.diagnostics.office.com
 ep2.facebook.com
-ep7.facebook.com
 error-tracking.reddit.com
 esputnik.com
 et.megogo.net
@@ -329,7 +326,6 @@ moduleanalysis.aliexpress.com
 mon-boot.tiktokv.com
 mon.tiktokv.com
 monitor-frontend-collector.a.bybit-aws.com
-mozilla.cloudflare-dns.com
 mparticle.weather.com
 ms.applovin.com
 ms.applvn.com
@@ -450,7 +446,6 @@ telemetry.api.playstation.com
 telemetry.graylog.cloud
 telemetry.individual.githubcopilot.com
 telemetry.tradingview.com
-test-gateway.instagram.com
 time-ae.akamaized.net
 tobapplog.tobsnssdk.com
 toblog.tobsnssdk.com
