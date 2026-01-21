@@ -1757,3 +1757,4 @@ yasno-sentry.brights.cloud
 ynuf.alipay.com
 z-na.amazon-adsystem.com
 z.moatads.com
+static.a-ads.com
