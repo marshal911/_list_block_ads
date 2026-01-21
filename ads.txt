@@ -423,6 +423,7 @@ sr-client-cfg.amplitude.com
 srtb.msn.com
 stat.tildaapi.one
 static.ads-twitter.com
+static.cloudflareinsights.com
 static.criteo.net
 static.doubleclick.net
 static.hotjar.com
