@@ -905,7 +905,7 @@ criteo-sync.teads.tv
 crs.cr.adobe.com
 cs.luckyorange.net
 cs.media.net
-csp-report.browser-intake-datadoghq.com
+#csp-report.browser-intake-datadoghq.com
 csp.secureserver.net
 cstat.nextel.com.ua
 ct-errs.cartrawler.com
@@ -1201,7 +1201,7 @@ logging.slm.ua
 login.dotomi.com
 login.mso.msidentity.com
 logo.clearbit.com
-logs.browser-intake-datadoghq.com
+#logs.browser-intake-datadoghq.com
 logs.netflix.com
 logservice.hicloud.com
 logservice1.hicloud.com
@@ -1419,7 +1419,7 @@ rtb.openx.net
 rtg.wewomedia.com
 rtm.tnt-ea.com
 rum-static.pingdom.net
-rum.browser-intake-datadoghq.com
+#rum.browser-intake-datadoghq.com
 rum.hlx.page
 rum.prod.services.auto1.team
 s-api.modivo.pl
