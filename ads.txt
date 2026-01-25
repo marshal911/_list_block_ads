@@ -150,7 +150,7 @@ beacon.shazam.com
 gvt2.com
 gvt3.com
 bitrix.info
-browser-intake-datadoghq.com
+#browser-intake-datadoghq.com
 browser.events.data.msn.com
 c.amazon-adsystem.com
 c.clarity.ms
@@ -707,7 +707,7 @@ benelph.de
 bidder.smartytouch.co
 bitly.fides-cdn.ethyca.com
 books-analytics-events.apple.com
-browser-intake-datadoghq.eu
+#browser-intake-datadoghq.eu
 browser.events.data.msn.cn
 browser.sentry-cdn.com
 bshr.ezodn.com
@@ -1598,6 +1598,7 @@ tags.pw.adn.cloud
 tags.tiqcdn.com
 tdum.alibaba.com
 telemetry-web.api.playstation.com
+#telemetry.betterstack.com
 telemetry.deeparc.net
 telemetry.proton.me
 telemetry.transcend.io
@@ -1735,7 +1736,7 @@ ws.zoominfo.com
 wtp.siteperformancetest.net
 www.adsensecustomsearchads.com
 www.artfut.com
-www.datadoghq-browser-agent.com
+#www.datadoghq-browser-agent.com
 www.dwin1.com
 www.dynatrace.com
 www.fastly-insights.com
