@@ -1598,7 +1598,7 @@ tags.pw.adn.cloud
 tags.tiqcdn.com
 tdum.alibaba.com
 telemetry-web.api.playstation.com
-telemetry.betterstack.com
+#telemetry.betterstack.com
 telemetry.deeparc.net
 telemetry.proton.me
 telemetry.transcend.io
