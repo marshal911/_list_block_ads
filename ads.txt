@@ -332,7 +332,7 @@ ms.applvn.com
 msd-rk.rozetka.com.ua
 msdk.bloomreach.co
 neo.tildacdn.com
-nexus-websocket-a.intercom.io
+#nexus-websocket-a.intercom.io
 notify.bugsnag.com
 o.clarity.ms
 o22381.ingest.sentry.io
