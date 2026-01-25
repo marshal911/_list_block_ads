@@ -150,7 +150,7 @@ beacon.shazam.com
 gvt2.com
 gvt3.com
 bitrix.info
-#browser-intake-datadoghq.com
+browser-intake-datadoghq.com
 browser.events.data.msn.com
 c.amazon-adsystem.com
 c.clarity.ms
@@ -332,7 +332,7 @@ ms.applvn.com
 msd-rk.rozetka.com.ua
 msdk.bloomreach.co
 neo.tildacdn.com
-#nexus-websocket-a.intercom.io
+nexus-websocket-a.intercom.io
 notify.bugsnag.com
 o.clarity.ms
 o22381.ingest.sentry.io
@@ -707,7 +707,7 @@ benelph.de
 bidder.smartytouch.co
 bitly.fides-cdn.ethyca.com
 books-analytics-events.apple.com
-#browser-intake-datadoghq.eu
+browser-intake-datadoghq.eu
 browser.events.data.msn.cn
 browser.sentry-cdn.com
 bshr.ezodn.com
@@ -905,7 +905,7 @@ criteo-sync.teads.tv
 crs.cr.adobe.com
 cs.luckyorange.net
 cs.media.net
-#csp-report.browser-intake-datadoghq.com
+csp-report.browser-intake-datadoghq.com
 csp.secureserver.net
 cstat.nextel.com.ua
 ct-errs.cartrawler.com
@@ -1161,7 +1161,7 @@ js.hs-scripts.com
 js.hsadspixel.net
 js.hscollectedforms.net
 js.hubspot.com
-#js.intercomcdn.com
+js.intercomcdn.com
 js.ptengine.com
 js.ptengine.jp
 js.sentry-cdn.com
@@ -1201,7 +1201,7 @@ logging.slm.ua
 login.dotomi.com
 login.mso.msidentity.com
 logo.clearbit.com
-#logs.browser-intake-datadoghq.com
+logs.browser-intake-datadoghq.com
 logs.netflix.com
 logservice.hicloud.com
 logservice1.hicloud.com
@@ -1419,7 +1419,7 @@ rtb.openx.net
 rtg.wewomedia.com
 rtm.tnt-ea.com
 rum-static.pingdom.net
-#rum.browser-intake-datadoghq.com
+rum.browser-intake-datadoghq.com
 rum.hlx.page
 rum.prod.services.auto1.team
 s-api.modivo.pl
@@ -1598,7 +1598,7 @@ tags.pw.adn.cloud
 tags.tiqcdn.com
 tdum.alibaba.com
 telemetry-web.api.playstation.com
-#telemetry.betterstack.com
+telemetry.betterstack.com
 telemetry.deeparc.net
 telemetry.proton.me
 telemetry.transcend.io
@@ -1736,7 +1736,7 @@ ws.zoominfo.com
 wtp.siteperformancetest.net
 www.adsensecustomsearchads.com
 www.artfut.com
-#www.datadoghq-browser-agent.com
+www.datadoghq-browser-agent.com
 www.dwin1.com
 www.dynatrace.com
 www.fastly-insights.com
