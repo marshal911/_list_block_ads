@@ -1758,3 +1758,6 @@ ynuf.alipay.com
 z-na.amazon-adsystem.com
 z.moatads.com
 static.a-ads.com
+px1.tuyaeu.com
+a.tuyaeu.com
+mq.gw.tuyaeu.com
