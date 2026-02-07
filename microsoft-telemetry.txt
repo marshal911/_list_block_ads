@@ -7,7 +7,7 @@ eu-teams.events.data.microsoft.com
 fpt.dfp.microsoft.com
 mobile.pipe.aria.microsoft.com
 ov-df.microsoft.com
-#self.events.data.microsoft.com
+self.events.data.microsoft.com
 settings-win.data.microsoft.com
 signals.urs.microsoft.com
 teams.events.data.microsoft.com
