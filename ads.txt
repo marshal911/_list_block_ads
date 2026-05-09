@@ -1766,3 +1766,9 @@ census-web.scorecardresearch.com
 eventer-player.bqstreamer.com
 mm-ssp.voltaxam.com
 image8.pubmatic.com
+a.ad.gt
+mp.mmvideocdn.com
+player-prediction.voltaxservices.io
+uid-creation.bqstreamer.com
+embed.sendtonews.com
+c3.a-mo.net
