@@ -1761,3 +1761,6 @@ static.a-ads.com
 video.unocdn.com
 market.viber.com
 share.cdn.viber.com
+media.cdn.viber.com
+dl-media.viber.com
+clients-content.viber.com
