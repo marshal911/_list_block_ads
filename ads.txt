@@ -1760,11 +1760,3 @@ z.moatads.com
 static.a-ads.com
 video.unocdn.com
 ads-d.viber.com
-market.viber.com
-content.cdn.viber.com
-plus-bc.cdn.viber.com
-dl-media.viber.com
-media.cdn.viber.com
-dl-media.viber.com
-smb-api.viber.com
-aloha46.viber.com
