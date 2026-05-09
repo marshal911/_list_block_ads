@@ -1765,3 +1765,4 @@ content.cdn.viber.com
 plus-bc.cdn.viber.com
 dl-media.viber.com
 media.cdn.viber.com
+dl-media.viber.com
