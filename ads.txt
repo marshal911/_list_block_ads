@@ -1766,3 +1766,5 @@ plus-bc.cdn.viber.com
 dl-media.viber.com
 media.cdn.viber.com
 dl-media.viber.com
+smb-api.viber.com
+aloha46.viber.com
