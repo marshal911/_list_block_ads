@@ -1763,3 +1763,4 @@ ads-d.viber.com
 vms-videos.minutemediaservices.com
 cdnmedia.sendtonews.com
 census-web.scorecardresearch.com
+eventer-player.bqstreamer.com
