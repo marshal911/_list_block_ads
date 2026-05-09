@@ -1760,3 +1760,6 @@ z.moatads.com
 static.a-ads.com
 video.unocdn.com
 ads-d.viber.com
+vms-videos.minutemediaservices.com
+cdnmedia.sendtonews.com
+census-web.scorecardresearch.com
