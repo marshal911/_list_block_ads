@@ -1759,5 +1759,7 @@ z-na.amazon-adsystem.com
 z.moatads.com
 static.a-ads.com
 video.unocdn.com
-market.viber.com
 ads-d.viber.com
+market.viber.com
+content.cdn.viber.com
+plus-bc.cdn.viber.com
