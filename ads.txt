@@ -1764,3 +1764,5 @@ vms-videos.minutemediaservices.com
 cdnmedia.sendtonews.com
 census-web.scorecardresearch.com
 eventer-player.bqstreamer.com
+mm-ssp.voltaxam.com
+image8.pubmatic.com
