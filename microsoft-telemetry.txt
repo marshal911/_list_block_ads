@@ -2,6 +2,7 @@ connectivity-test.cloud.microsoft
 connectivity-test.static.microsoft
 connectivity-test.usercontent.microsoft
 eu-mobile.events.data.microsoft.com
+mobile.events.data.microsoft.com
 eu-office.events.data.microsoft.com
 eu-teams.events.data.microsoft.com
 fpt.dfp.microsoft.com
