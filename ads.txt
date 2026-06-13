@@ -1772,3 +1772,5 @@ player-prediction.voltaxservices.io
 uid-creation.bqstreamer.com
 embed.sendtonews.com
 c3.a-mo.net
+mdtb-cf-3.ads.aps.amazon-adsystem.com
+app-analytics-services.com
