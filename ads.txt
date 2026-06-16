@@ -1774,3 +1774,5 @@ embed.sendtonews.com
 c3.a-mo.net
 mdtb-cf-3.ads.aps.amazon-adsystem.com
 app-analytics-services.com
+star.c10r.facebook.com
+star.fallback.c10r.facebook.com
